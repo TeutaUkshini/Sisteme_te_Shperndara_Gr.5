@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kidshouse-d646d",
+  "private_key_id": "5854c386c6dac83121252f34ca5b69d7e9a18baa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCtdOHV3iX5MpLf\nCg7kze4U2PKiO72XSUUOaj9FQSNpJDs+vatXfcj1UKr5A4kGCK1KVBg7l89xJAKQ\nHXxURl1MIVGsMiFbz89jji6eX1wdY40ILz/qcyQ2f6go0GeM3m3dySpSSnLwQ4XV\nurMUlln9t3p/bSjLJ31GAohGJqqT4H3tkePYxng0fv3WUYqG8MH7OnEoLuc2chUW\n/GLSsQ1hRoQQ69LL8GnDjK2zGE54QWLHe6q1TSq+tYg1dFOQ6vl/eEeCuHNL2u/v\nlmQMwE3VG8ml+YLB2SS7FNP1n1C2ux4WOtM8hWyJx9LqnyOpnSU4DrKX1eDbzylb\nqF7e/SFBAgMBAAECggEAOUSVSVyice+aISx7dVxuJhDortqFgnzs4VD/2bgjXlPZ\ngaHyf5zma+P5xuQ9abIUsK0qIQbCtQqcFAPAKDzhEcEQa4dTjzIBuU9Yoe4/Be73\nwcOD2T6xrpKgLPV9srs/T9HaeLfe0eehOMr+1CW9yXA57/dU2BoOGL6+Slb6y35w\nNQl1pvaUnnoTzgGMatcNrcJOpG1cwh1KMFwTLLmApdETe7AI7RLpAr0UzvOPLYIs\nrJkKs1hpjTHXUfm6Jtp8qe1Dawh+hcTHXwYZmkpuQvYcF2j1ycglZmImeheEHrPL\n4y0B6AN9h8ExIjlpqFmBEIunSPmOxqKq8/XQM9QnDwKBgQDX70X/M3eotxjMs5BU\nM+H+CMSN2nUGWkoKEwokck7BwJh0H1KeAa3K3IhAA8kfH9mqMcQogUBP3oQEciA/\nS4hKqJXjGPSKS/JVqbfyUVFK0iSXITSmIWMPCqc9YYsjsrIFTGZVIliGtkmcRr+2\nj+OnuSMmeQ9MX1xeJLTZGQTSIwKBgQDNo+7O3X3zjpHsTNou3z3G47B0PYXmtfno\nvodiAkULRHhPIDCgvlwgxeBv4pHuBJgJtv7pt4ArilW5aIjNzYPQ/E7BzlafqP+G\nLgX0FDosKYN3/23z3FKTqadwZVtnW/qJjxIypFMtbSTFIasrLeIaKljpfcz9WEHR\nKg7SRdy7SwKBgGuFWExX21hmO3IKY26aGwi8YurjgWv1X3KewmkdhfvSI9eGlUPa\nQCiIIUwG1omp+V9Wwn8MxPJAMWppTYdW2/mY8nGPRozqfjOLe+2r8heYheG/BhFH\nBKVDv7y/qmHPI/ehcD8qB/ykHgkz7VhBU7F7bXZFx4lW3o5+JpMHczATAoGBALXb\n8kfTrZ2FSht148Zr+xA3MEe8WPytlnN0e/n7E+BhDxy61QZzErqRBGkuL+wU9/gv\nc8RxWdInpqQvhDytMZPSbjwLJKRSKpgZf35ZnRCNLg0jQbPV9tlLwh4uJOWFfE3G\nz0sl88FKsqf7nIq1Ky4EoVjsviqWsK4vyae/zPN9AoGBAMpw7r4YwYb18WwaOdmH\nmpxhiGxI3LRgl+sbeEWoDm5Ci/P6u3z+KuO/CuzRGaaqb7nfI/AXsouOaWLxTsVi\nRcSbS0LYbmZ0bPlX2BVqxfsujETHREQ/bK3WimwB+yV+cz4E5MT694io+BSLFjkS\najwXH42xXId0cRsu2V8ZSqVy\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-ml8p1@kidshouse-d646d.iam.gserviceaccount.com",
+  "client_id": "113147718633529601400",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ml8p1%40kidshouse-d646d.iam.gserviceaccount.com"
+}
