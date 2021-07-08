@@ -1,16 +1,16 @@
 # Sisteme_te_Shperndara_Gr.5
 
-# install nodejs
-# install npm
-# install moment
-# install pg
-# install nodemon
+install nodejs
+install npm
+install moment
+install pg
+install nodemon
 
-To Run Frontend type => npm run serve or nodemon serve
+#To Run Frontend type => npm run serve or nodemon serve
 Backend firebase emulators:start 
-To Run Backend type => npm run start or nodemon start
+#To Run Backend type => npm run start or nodemon start
 
- Ne menyre qe ky projekt te bej ne pc-n tuaj,ju duhet te krijoni nje firebase tuajen personale me te cilen ju mund te shperndani te dhenat tuaj me partneret tuaj 
+# Ne menyre qe ky projekt te bej ne pc-n tuaj,ju duhet te krijoni nje firebase tuajen personale me te cilen ju mund te shperndani te dhenat tuaj me partneret tuaj 
 
 Create a Firebase Project
 Open the Firebase console.
